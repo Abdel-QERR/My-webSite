@@ -1,3 +1,0 @@
-# My demp file
-*style file txt
-*My seconde line
